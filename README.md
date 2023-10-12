@@ -6,9 +6,11 @@
 
 - 🌈这按你的要求输出【职业美女肖像】的提示词，如果选择【有创意的】则脑洞极大。兼容SDXL的自然语言！
 - 建议使用GPT-4，输入Prompt，即可开始体验。
+- 选择合适的checkpoint模型与lora，就可以随心所欲的创作喜欢的风格了！
 _________________
 
 ## 效果概览：
+- 使用DALL-E 3,+提示词创作。
 
 <img src="./previews/1.png" width="500">
 
@@ -17,6 +19,16 @@ _________________
 <img src="./previews/3.png" width="500">
 
 <img src="./previews/4.png" width="500">
+
+<img src="./previews/s1.png" width="500">
+
+<img src="./previews/s2.png" width="500">
+
+<img src="./previews/s3.png" width="500">
+
+<img src="./previews/s4.png" width="500">
+
+<img src="./previews/s5.png" width="500">
 
 _________________
 
