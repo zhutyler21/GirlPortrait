@@ -5,7 +5,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
 
 - 🌈这按你的要求输出【职业美女肖像】的提示词，如果选择【有创意的】则脑洞极大。兼容SDXL的自然语言！
-- 建议使用GPT-4，输入Prompt，即可开始体验。
+- 建议使用GPT-4，输入Prompt，即可开始体验。[点击链接](https://chat.openai.com/share/d2fc3388-61d3-43a0-a633-9542cbdc45cc)
 - 选择合适的checkpoint模型与lora，就可以随心所欲的创作喜欢的风格了！
 _________________
 
